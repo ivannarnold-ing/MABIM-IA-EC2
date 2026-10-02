@@ -6,6 +6,7 @@ Archivo de QA/QC en Dynamo y Python que audita la asignación del parámetro "C�
 - Ivan Guillen Challco
 
 
+
 1. ¿Qué hace la rutina?
 Es una rutina de control de calidad (QA/QC) orientada a la verificación de modelos BIM en Revit. Inspecciona de forma automatizada los elementos de una categoría seleccionada (ejemplares y tipos) para comprobar si cuentan con el parámetro de clasificación de partidas (Código de montaje / Assembly Code) debidamente asignado y alineado al estándar del proyecto, previniendo errores u omisiones en etapas de metrados y presupuestos.  
 
