@@ -1,6 +1,10 @@
 # MABIM-IA-EC2
 Archivo de QA/QC en Dynamo y Python que audita la asignación del parámetro "Código de montaje" en elementos estructurales de Revit frente a un estándar definido. Genera un reporte detallado y lo exporta automáticamente a Excel con el ID de cada elemento para facilitar su corrección en el modelo.
 
+# EVALUACIÓN CONTINUA 2 - EC2, INTEGRANTES:
+- Ivann Arnold Maldonado Huancachoque
+- Ivan Guillen Challco
+
 
 1. ¿Qué hace la rutina?
 Es una rutina de control de calidad (QA/QC) orientada a la verificación de modelos BIM en Revit. Inspecciona de forma automatizada los elementos de una categoría seleccionada (ejemplares y tipos) para comprobar si cuentan con el parámetro de clasificación de partidas (Código de montaje / Assembly Code) debidamente asignado y alineado al estándar del proyecto, previniendo errores u omisiones en etapas de metrados y presupuestos.  
